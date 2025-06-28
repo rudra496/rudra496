@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rudra Sarker
 
-🎓 Final-year student in **Industrial & Production Engineering** at **Shahjalal University of Science and Technology (SUST), Sylhet**
+🎓 Third-year student in **Industrial & Production Engineering** at **Shahjalal University of Science and Technology (SUST), Sylhet**
 
 🔧 Passionate about:
 - Robotics & Embedded Systems
@@ -48,6 +48,6 @@
 ---
 
 ## 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rudra496/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rudra-sarker-573b15296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=githubpages&style=for-the-badge)](https://rudra496.github.io/site)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:rudrasarker130@gmail.com)
