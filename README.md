@@ -248,7 +248,7 @@ Applying engineering principles to optimize manufacturing processes, quality con
 <img src="https://github-readme-streak-stats.herokuapp.com/?theme=radical&hide_border=true&user=rudra496" alt="GitHub Contribution Streak - Embedded Systems Expert" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra496&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Programming Languages - Arduino, C++, Python" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra496&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph - ESP32 Projects and IoT Development" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra496&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph - ESP32 Projects and IoT Development" width="48%" />
 
 </div>
 
@@ -301,9 +301,9 @@ I'm actively seeking collaborations on:
 
 ### 🌐 Find Me Online
 
-[![Facebook](https://img.shields.io/badge/Facebook-Social-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rudra496)
-[![Twitter](https://img.shields.io/badge/Twitter-Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rudra496)
-[![Instagram](https://img.shields.io/badge/Instagram-Projects-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rudra496)
+[![Facebook](https://img.shields.io/badge/Facebook-Social-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rudra496)
+[![Twitter](https://img.shields.io/badge/Twitter-Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/rudra496)
+[![Instagram](https://img.shields.io/badge/Instagram-Projects-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudra496)
 
 </div>
 
