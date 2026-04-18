@@ -53,7 +53,7 @@
 |---------|-------------|------|
 | [**StealthHumanizer**](https://stealthhumanizer.vercel.app/) ⭐ | Free open-source AI text humanizer — 13 providers, 4 rewrite levels, multi-pass ninja mode | Next.js, TypeScript |
 | [**ai-code-trust-validator**](https://github.com/rudra496/ai-code-trust-validator) | Validate AI-generated code for security, hallucinations & logic errors | Python |
-| [**EdgeBrain**](https://github.com/rudra496/EdgeBrain) | AI-powered edge intelligence — autonomous real-world decisions, 100% local, zero paid APIs | Python |
+| [**EdgeBrain**](https://github.com/rudra496/EdgeBrain) | AI-powered edge intelligence — local-first, autonomous real-world decisions | Python |
 | [**worldsim-ai**](https://github.com/rudra496/worldsim-ai) | AI-powered digital twin simulation platform | Python |
 
 ### 🔬 Robotics & IoT
