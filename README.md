@@ -2,7 +2,7 @@
 
 <a href="https://rudra496.github.io/site"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rudra+Sarker;AI+Developer+%7C+Robotronics+%26+IoT+Engineer;Industrial+%26+Production+Engineering+%40+SUST;Open+Source+Contributor" alt="Typing SVG" /></a>
 
-<a href="https://www.linkedin.com/in/rudra-sarker-573b15296"><img src="https://img.shields.io/badge/LinkedIn-Rudra_Sarker-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rudrasarker"><img src="https://img.shields.io/badge/LinkedIn-Rudra_Sarker-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/Rudra496"><img src="https://img.shields.io/badge/X-@Rudra496-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://github.com/rudra496"><img src="https://img.shields.io/badge/GitHub-rudra496-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://www.youtube.com/@rudrasarker9732"><img src="https://img.shields.io/badge/YouTube-@rudrasarker9732-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
@@ -17,9 +17,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra496&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=rudra496&color=blueviolet&style=flat-square" alt="Visitor Count" />
-
 </div>
 
 ---
@@ -27,8 +24,6 @@
 ## 👨‍🎓 About Me
 
 3rd-year **Industrial & Production Engineering** student at [SUST](https://www.sust.edu), Sylhet, Bangladesh — building at the intersection of **AI, Robotics, IoT, and Full-Stack Web Development**. Secretary of Project & Planning at **RoboSUST**. Founder of **MindWell** — a mental health tech platform.
-
-<a href="https://rudra496.github.io/site">🌐 Visit my portfolio</a>
 
 ---
 
@@ -74,7 +69,6 @@
 | [**codevista**](https://github.com/rudra496/codevista) | Code analysis & security scanner — 80+ languages, DNA fingerprinting | Python |
 | [**termmind**](https://github.com/rudra496/termmind) | AI-powered terminal assistant — 7 providers, 40+ commands | Python |
 | [**ScienceLab 3D**](https://rudra496.github.io/science) | Interactive 3D science lab with 40+ experiments | Three.js, WebGL |
-| [**Sciencelab3D**](https://github.com/rudra496/sciencelab3d) | Open-source virtual STEM learning platform | TypeScript, React Three Fiber |
 
 ---
 
@@ -105,7 +99,7 @@
 ## 📫 Connect With Me
 
 <a href="https://github.com/rudra496"><img src="https://img.shields.io/badge/GitHub-rudra496-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/rudra-sarker-573b15296"><img src="https://img.shields.io/badge/LinkedIn-Rudra_Sarker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rudrasarker"><img src="https://img.shields.io/badge/LinkedIn-Rudra_Sarker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/Rudra496"><img src="https://img.shields.io/badge/X-@Rudra496-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.youtube.com/@rudrasarker9732"><img src="https://img.shields.io/badge/YouTube-@rudrasarker9732-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://dev.to/rudra_sarker"><img src="https://img.shields.io/badge/DEV.to-rudra_sarker-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
