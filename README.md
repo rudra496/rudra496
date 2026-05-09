@@ -181,9 +181,9 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rudra496&show_icons=true&theme=algolia&hide_border=true&hide_title=true&line_height=28&card_width=500&bg_color=0d1117&title_color=ff6b6b&icon_color=ff9f43&text_color=ffffff" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra496&theme=github_dark" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra496&layout=compact&theme=algolia&hide_border=true&langs_count=10&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra496&theme=github_dark" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra496&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=0d1117&ring=ff6b6b&fire=ff9f43&currLabel=ff6b6b&sideLabels=ffffff&currDateLabel=ff6b6b&sideDateLabel=ffffff" alt="Streak Stats" />
 
@@ -198,7 +198,7 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra496&bg_color=0d1117&color=ff6b6b&line=ff9f43&point=ff6b6b&area=true&hide_border=true&area_color=ff6b6b33" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra496&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudra496&theme=github_dark" width="100%" />
 
 </div>
 
