@@ -198,8 +198,7 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra496&bg_color=0d1117&color=ff6b6b&line=ff9f43&point=ff6b6b&area=true&hide_border=true&area_color=ff6b6b33" width="100%" />
 
-<!-- 3D ISO CONTRIBUTION GRAPH -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rudra496&api_domain=hackatime.hackclub.com&bg_color=0d1117&hide_title=true&hide_border=true&custom_title= " width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra496&theme=github_dark" width="100%" />
 
 </div>
 
