@@ -235,3 +235,52 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=120&section=footer" width="100%" />
 
 </div>
+
+<!-- STAR CAMPAIGN SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=divider&text=&fontSize=0" width="100%" />
+
+## ⭐ Support My Open Source Work
+
+If any of my projects helped you, here's how you can support:
+
+1. **⭐ Star** the repos you find useful — it helps others discover them
+2. **🍴 Fork & Contribute** — all repos welcome PRs
+3. **📢 Share** with your network
+4. **👤 Follow** [@rudra496](https://github.com/rudra496) for updates
+
+<div align="center">
+
+### 🏆 Top Starred Projects
+
+| | Project | Stars | Description |
+|---|---------|-------|-------------|
+| 🔓 | [**StealthHumanizer**](https://github.com/rudra496/StealthHumanizer) | ![Stars](https://img.shields.io/github/stars/rudra496/StealthHumanizer?style=social) | Free AI text humanizer — 13 providers, no login |
+| 🧠 | [**EdgeBrain**](https://github.com/rudra496/EdgeBrain) | ![Stars](https://img.shields.io/github/stars/rudra496/EdgeBrain?style=social) | Edge AI inference — sub-100ms, no cloud |
+| 🗺️ | [**DevRoadmaps**](https://github.com/rudra496/devroadmaps) | ![Stars](https://img.shields.io/github/stars/rudra496/devroadmaps?style=social) | 17 career paths, 1700+ free resources |
+| 🔍 | [**CodeVista**](https://github.com/rudra496/codevista) | ![Stars](https://img.shields.io/github/stars/rudra496/codevista?style=social) | AI code analysis & security scanner |
+| 👁️ | [**SightlineAI**](https://github.com/rudra496/sightlineai) | ![Stars](https://img.shields.io/github/stars/rudra496/sightlineai?style=social) | AI smart glasses for the blind |
+
+</div>
+
+<!-- RECENT ACTIVITY -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=divider&text=&fontSize=0" width="100%" />
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rudra496&theme=dark&background=000000" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rudra496&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff6b6b&icon_color=ff9f43&text_color=ffffff" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra496&bg_color=000000&color=ff6b6b&line=ff9f43&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=100&section=footer" width="100%" />
+
+<div align="center">
+
+**[⭐ Star my repos](https://github.com/rudra496?tab=repositories) · [👤 Follow me](https://github.com/rudra496?tab=followers) · [🌐 Portfolio](https://rudra496.github.io/site) · [🐦 Twitter](https://twitter.com/Rudra496)**
+
+</div>
