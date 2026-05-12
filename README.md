@@ -239,6 +239,25 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 <!-- STAR CAMPAIGN SECTION -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=divider&text=&fontSize=0" width="100%" />
 
+
+
+## 📸 Community Contribution Issues: Add Real Demo Screenshots
+
+Want an easy first contribution that boosts project trust and helps more users star/follow? Open one issue below and add real demo screenshots (UI, CLI output, hardware setup, or results).
+
+> ✅ **StealthHumanizer already has demo coverage**, so it is skipped here.
+
+### Open screenshot contribution issues (one-click)
+
+- [DevRoadmaps — Add real demo screenshots](https://github.com/rudra496/devroadmaps/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real%20demo%20screenshots%20to%20the%20README%20for%20better%20trust%20and%20discoverability.%0A%0A##%20What%20to%20capture%0A-%20Homepage%20and%20roadmap%20view%0A-%20Mobile%20responsive%20view%0A-%20PWA%20install%20prompt%20or%20offline%20mode%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Upload%20optimized%20images%20in%20repo%20assets%20folder%0A-%20%5B%20%5D%20Update%20README%20with%20image%20captions%0A-%20%5B%20%5D%20Add%20alt%20text%20for%20accessibility%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
+- [EdgeBrain — Add real demo screenshots](https://github.com/rudra496/EdgeBrain/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real-world%20demo%20screenshots%20for%20edge%20AI%20workflows.%0A%0A##%20What%20to%20capture%0A-%20Inference%20run%20on%20device%0A-%20Latency%2Fmetrics%20output%0A-%20System%20architecture%20or%20dashboard%20view%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Upload%20clear%20screenshots%20with%20captions%0A-%20%5B%20%5D%20Mask%20sensitive%20tokens%2Fkeys%0A-%20%5B%20%5D%20Update%20README%20demo%20section%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
+- [CodeVista — Add real demo screenshots](https://github.com/rudra496/codevista/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real%20screenshots%20for%20scan%20flow%20and%20report%20outputs.%0A%0A##%20What%20to%20capture%0A-%20CLI%20scan%20execution%0A-%20HTML%20report%20overview%0A-%20Security%20findings%20sample%20(redacted)%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Keep%20images%20compressed%20for%20fast%20README%20load%0A-%20%5B%20%5D%20Add%20before%2Fafter%20or%20sample%20report%20shots%0A-%20%5B%20%5D%20Update%20README%20with%20short%20workflow%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
+- [SignLanguage-Dataset-Hub — Add real demo screenshots](https://github.com/rudra496/SignLanguage-Dataset-Hub/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real%20hardware%20and%20output%20demo%20screenshots%20to%20improve%20project%20credibility.%0A%0A##%20What%20to%20capture%0A-%20Glove%20hardware%20setup%0A-%20Sensor%20signal%20or%20reading%20display%0A-%20Sign-to-text%2Faudio%20output%20example%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Blur%20faces%20if%20needed%0A-%20%5B%20%5D%20Add%20image%20credits%20if%20contributor-owned%0A-%20%5B%20%5D%20Update%20README%20demo%20section%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
+- [TermMind — Add real demo screenshots](https://github.com/rudra496/termmind/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real%20terminal%20demo%20screenshots%20for%20common%20commands%20and%20provider%20usage.%0A%0A##%20What%20to%20capture%0A-%20Command%20examples%20in%20terminal%0A-%20Provider%20switching%20or%20multi-model%20output%0A-%20Automation%20workflow%20sample%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Redact%20API%20keys%20and%20personal%20paths%0A-%20%5B%20%5D%20Keep%20terminal%20theme%20readable%0A-%20%5B%20%5D%20Update%20README%20Demo%20section%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
+- [SightlineAI — Add real demo screenshots](https://github.com/rudra496/sightlineai/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real-time%20assistive%20vision%20demo%20screenshots%20to%20document%20practical%20use.%0A%0A##%20What%20to%20capture%0A-%20Object/environment%20detection%20view%0A-%20Alert%20or%20guidance%20output%0A-%20Device%20form-factor%20or%20wearable%20setup%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Do%20not%20expose%20private%20user%20data%0A-%20%5B%20%5D%20Add%20context%20for%20each%20screenshot%0A-%20%5B%20%5D%20Update%20README%20Demo%20section%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
+
+If you contribute screenshots, tag **`good first issue`**, **`documentation`**, and **`help wanted`** on your issue/PR so new contributors can discover it fast.
+
 ## ⭐ Support My Open Source Work
 
 If any of my projects helped you, here's how you can support:
