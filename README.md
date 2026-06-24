@@ -54,7 +54,7 @@ I create **open-source tools that solve real problems** — from AI text humaniz
 ### [StealthHumanizer](https://stealthhumanizer.vercel.app/)
 **Free AI text humanizer — no login, no limits**
 
-13 AI providers, 4 rewrite levels, multi-pass ninja mode, 16+ languages. Disrupts GPTZero/Turnitin detection with a 4-layer pipeline.
+35 AI providers, 4 rewrite levels, multi-pass ninja mode, 16+ languages. Disrupts GPTZero/Turnitin detection with a 4-layer pipeline.
 
 `Next.js` `TypeScript` `AI`
 
@@ -65,7 +65,7 @@ I create **open-source tools that solve real problems** — from AI text humaniz
 <td width="50%">
 
 ### [DevRoadmaps](https://rudra496.github.io/devroadmaps)
-**Free developer roadmaps — 17 paths, 1700+ resources**
+**Free developer roadmaps — 20 paths, 870+ topics, 1,880+ resources**
 
 Full-stack, DevOps, AI/ML, and 14 more career paths with PWA support and certifications.
 
@@ -275,11 +275,12 @@ If any of my projects helped you, here's how you can support:
 
 | | Project | Stars | Description |
 |---|---------|-------|-------------|
-| 🔓 | [**StealthHumanizer**](https://github.com/rudra496/StealthHumanizer) | ![Stars](https://img.shields.io/github/stars/rudra496/StealthHumanizer?style=social) | Free AI text humanizer — 13 providers, no login |
+| 🔓 | [**StealthHumanizer**](https://github.com/rudra496/StealthHumanizer) | ![Stars](https://img.shields.io/github/stars/rudra496/StealthHumanizer?style=social) | Free AI text humanizer — 35 providers, 16+ languages, no login |
 | 🧠 | [**EdgeBrain**](https://github.com/rudra496/EdgeBrain) | ![Stars](https://img.shields.io/github/stars/rudra496/EdgeBrain?style=social) | Edge AI inference — sub-100ms, no cloud |
-| 🗺️ | [**DevRoadmaps**](https://github.com/rudra496/devroadmaps) | ![Stars](https://img.shields.io/github/stars/rudra496/devroadmaps?style=social) | 17 career paths, 1700+ free resources |
+| 🗺️ | [**DevRoadmaps**](https://github.com/rudra496/devroadmaps) | ![Stars](https://img.shields.io/github/stars/rudra496/devroadmaps?style=social) | 20 career paths, 870+ topics, 1,880+ free resources |
 | 🔍 | [**CodeVista**](https://github.com/rudra496/codevista) | ![Stars](https://img.shields.io/github/stars/rudra496/codevista?style=social) | AI code analysis & security scanner |
 | 👁️ | [**SightlineAI**](https://github.com/rudra496/sightlineai) | ![Stars](https://img.shields.io/github/stars/rudra496/sightlineai?style=social) | AI smart glasses for the blind |
+| 🤖 | [**awesome-ai-humanizers**](https://github.com/rudra496/awesome-ai-humanizers) | ![Stars](https://img.shields.io/github/stars/rudra496/awesome-ai-humanizers?style=social) | Curated list of AI humanizer tools & resources |
 
 </div>
 
