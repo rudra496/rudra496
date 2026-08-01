@@ -1,3 +1,14 @@
+<!--
+Profile: Rudra Sarker (@rudra496)
+Keywords: AI developer, machine learning engineer, robotics engineer, IoT engineer, open source developer,
+StealthHumanizer, EdgeBrain, DevRoadmaps, CodeVista, ScienceLab 3D, AI text humanizer, edge AI inference,
+developer roadmaps, code analysis, sign language smart glove, assistive technology, computer vision,
+TensorFlow, PyTorch, React, Next.js, TypeScript, Python, Arduino, ESP32, Raspberry Pi, SUST Bangladesh,
+Industrial Production Engineering, DEI Champion, open source contributor Bangladesh
+Description: AI Developer & Robotics/IoT Engineer building open-source tools — AI text humanizer, edge AI,
+developer roadmaps, code analysis, assistive tech. 4th-year IPE student at SUST, Bangladesh.
+-->
+
 <div align="center">
 
 <!-- 3D ANIMATED HEADER -->
@@ -13,11 +24,14 @@
 <img src="https://komarev.com/ghpvc/?username=rudra496&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/Focus-AI%2C_Robotics%2C_IoT-ff9f43?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000" />
 <img src="https://img.shields.io/badge/Open_Source-Active-2ecc71?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=000" />
+<a href="https://github.com/sponsors/rudra496">
+<img src="https://img.shields.io/badge/Sponsor-Support_My_Work-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=000" />
+</a>
 
 <!-- TYPING ANIMATION -->
 <br/><br/>
 <a href="https://rudra496.github.io/site">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=F73165&width=600&lines=AI+Developer+%7C+Robotics+%26+IoT+Engineer;3rd+Year+IPE+%40+SUST%2C+Bangladesh;Secretary+of+Projects+%40+RoboSUST;DEI+Champion+%7C+Rice+University+%26+Rice360;Building+the+future+with+open+source+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=F73165&width=600&lines=AI+Developer+%7C+Robotics+%26+IoT+Engineer;4th+Year+IPE+%40+SUST%2C+Bangladesh;Secretary+of+Projects+%40+RoboSUST;DEI+Champion+%7C+Rice+University+%26+Rice360;UPG+Sustainability+Leader+%28Distinction%29;Building+the+future+with+open+source+%F0%9F%9A%80" alt="Rudra Sarker — AI Developer, Robotics & IoT Engineer, Open Source Contributor" />
 </a>
 
 </div>
@@ -27,10 +41,12 @@
 
 ## About Me
 
-I create **open-source tools that solve real problems** — from AI text humanization to assistive robotics for the visually impaired. My work sits at the intersection of **AI, embedded systems, and full-stack engineering**.
+I'm a **4th-year Industrial & Production Engineering student** at **SUST** (Shahjalal University of Science and Technology), Sylhet, Bangladesh — building **open-source tools that solve real problems** at the intersection of **AI, embedded systems, and full-stack engineering**.
+
+From AI text humanization used by thousands worldwide to assistive robotics for the visually impaired, I create tools that are **free, accessible, and genuinely useful**. Currently serving as **Secretary of Projects & Planning at RoboSUST** and recognized as a **UPG Sustainability Leader** (with distinction).
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=58A6FF&width=500&center=true&lines=%F0%9F%8F%85+Secretary+of+Projects+%26+Planning+%40+RoboSUST;%F0%9F%A7%A0+AI+%7C+ML+%7C+Robotics+%7C+IoT;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8F%86+National+%26+International+Award+Winner;%F0%9F%8C%8D+Sylhet%2C+Bangladesh+%E2%86%92+Building+for+the+World" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=58A6FF&width=520&center=true&lines=%F0%9F%8F%85+Secretary+of+Projects+%26+Planning+%40+RoboSUST;%F0%9F%A7%A0+AI+%7C+ML+%7C+Robotics+%7C+IoT;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8F%86+National+%26+International+Award+Winner;%F0%9F%8C%8D+Sylhet%2C+Bangladesh+%E2%86%92+Building+for+the+World" />
 </div>
 
 <!-- NEON DIVIDER -->
@@ -39,7 +55,7 @@ I create **open-source tools that solve real problems** — from AI text humaniz
 ## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rudra496&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=rudra496&theme=darkhub&no-bg=false&no-frame=false&column=8&margin-w=8&margin-h=8" width="100%" alt="GitHub Profile Trophies — Rudra Sarker" />
 </div>
 
 <!-- RAINBOW DIVIDER -->
@@ -54,94 +70,103 @@ I create **open-source tools that solve real problems** — from AI text humaniz
 ### [StealthHumanizer](https://stealthhumanizer.vercel.app/)
 **Free AI text humanizer — no login, no limits**
 
-35 AI providers, 4 rewrite levels, multi-pass ninja mode, 16+ languages. Disrupts GPTZero/Turnitin detection with a 4-layer pipeline.
+35 AI providers, 4 rewrite levels, multi-pass ninja mode, 16+ languages. Disrupts GPTZero/Turnitin detection with a 4-layer pipeline. Used by thousands of students & writers worldwide.
 
-`Next.js` `TypeScript` `AI`
+`Next.js` `TypeScript` `AI` `Hacktoberfest`
 
 [![Stars](https://img.shields.io/github/stars/rudra496/StealthHumanizer?style=for-the-badge&logo=github&color=ff6b6b&labelColor=000)](https://github.com/rudra496/StealthHumanizer)
-[![Live](https://img.shields.io/badge/Live-Demo-black?style=for-the-badge&logo=vercel&color=2ecc71&labelColor=000)](https://stealthhumanizer.vercel.app/)
+[![Live](https://img.shields.io/badge/Try_Live-black?style=for-the-badge&logo=vercel&color=2ecc71&labelColor=000)](https://stealthhumanizer.vercel.app/)
 
 </td>
+<td width="50%">
+
+### [ScienceLab 3D](https://sciencelab-two.vercel.app/)
+**Interactive 3D STEM lab — 40+ virtual experiments**
+
+Learn science by doing. Physics, chemistry & biology experiments right in your browser. Used by educators and students globally.
+
+`Next.js` `Three.js` `WebGL` `Education`
+
+[![Stars](https://img.shields.io/github/stars/rudra496/sciencelab3d?style=for-the-badge&logo=github&color=ff6b6b&labelColor=000)](https://github.com/rudra496/sciencelab3d)
+[![Live](https://img.shields.io/badge/Try_Live-black?style=for-the-badge&logo=vercel&color=2ecc71&labelColor=000)](https://sciencelab-two.vercel.app)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [DevRoadmaps](https://rudra496.github.io/devroadmaps)
 **Free developer roadmaps — 20 paths, 870+ topics, 1,880+ resources**
 
-Full-stack, DevOps, AI/ML, and 14 more career paths with PWA support and certifications.
+Full-stack, DevOps, AI/ML, and 14 more career paths with PWA support and certifications. Your free guide from beginner to senior dev.
 
-`JavaScript` `PWA` `Education`
+`JavaScript` `PWA` `Education` `Hacktoberfest`
 
 [![Stars](https://img.shields.io/github/stars/rudra496/devroadmaps?style=for-the-badge&logo=github&color=ff6b6b&labelColor=000)](https://github.com/rudra496/devroadmaps)
-[![Live](https://img.shields.io/badge/Live-Demo-black?style=for-the-badge&logo=vercel&color=2ecc71&labelColor=000)](https://rudra496.github.io/devroadmaps)
+[![Live](https://img.shields.io/badge/Try_Live-black?style=for-the-badge&logo=vercel&color=2ecc71&labelColor=000)](https://rudra496.github.io/devroadmaps)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [EdgeBrain](https://github.com/rudra496/EdgeBrain)
 **AI edge intelligence — local-first, no APIs**
 
-Autonomous real-world decision systems that run entirely on-device.
+Autonomous real-world decision systems that run entirely on-device. Sub-100ms latency, no cloud, no API keys. Perfect for Raspberry Pi and embedded devices.
 
-`Python` `AI` `Edge Computing`
+`Python` `AI` `Edge Computing` `TinyML`
 
 [![Stars](https://img.shields.io/github/stars/rudra496/EdgeBrain?style=for-the-badge&logo=github&color=ff6b6b&labelColor=000)](https://github.com/rudra496/EdgeBrain)
-
-</td>
-<td width="50%">
-
-### [CodeVista](https://github.com/rudra496/codevista)
-**Code analysis & security scanner — 80+ languages**
-
-DNA fingerprinting, decay detection, and rich HTML reports.
-
-`Python` `Security` `DevTools`
-
-[![Stars](https://img.shields.io/github/stars/rudra496/codevista?style=for-the-badge&logo=github&color=ff6b6b&labelColor=000)](https://github.com/rudra496/codevista)
+[![Docs](https://img.shields.io/badge/Docs-Read-black?style=for-the-badge&logo=readthedocs&color=58A6FF&labelColor=000)](https://github.com/rudra496/EdgeBrain)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [Team SignTalk](https://github.com/rudra496/SignLanguage-Dataset-Hub)
-**Sign language smart glove — National Award Winner**
+### [CNC Simulator Pro](https://rudra496.github.io/cnc/)
+**Free browser-based 3-axis CNC milling & G-code simulator**
 
-Translates sign language to text & audio in real-time using Arduino, sensors, and AI.
+Real-time 3D machining, G/M-code animation, DRO control bar, feeds & speeds calculator, tool library and 26 example programs. 100% client-side.
 
-`Arduino` `IoT` `Accessibility`
+`Next.js` `Three.js` `CAD/CAM` `Manufacturing`
 
-[![Stars](https://img.shields.io/github/stars/rudra496/SignLanguage-Dataset-Hub?style=for-the-badge&logo=github&color=ff6b6b&labelColor=000)](https://github.com/rudra496/SignLanguage-Dataset-Hub)
+[![Stars](https://img.shields.io/github/stars/rudra496/cnc?style=for-the-badge&logo=github&color=ff6b6b&labelColor=000)](https://github.com/rudra496/cnc)
+[![Live](https://img.shields.io/badge/Try_Live-black?style=for-the-badge&logo=vercel&color=2ecc71&labelColor=000)](https://rudra496.github.io/cnc/)
 
 </td>
 <td width="50%">
 
-### [TermMind](https://github.com/rudra496/termmind)
-**AI terminal assistant — 7 providers, 40+ commands**
+### [Nexus Agent](https://github.com/rudra496/nexus-agent)
+**Zero-config, self-evolving local AI agent framework**
 
-Works with OpenAI, Claude, Gemini, and local models for code analysis and automation.
+Multi-agent orchestration, GraphRAG, IDE integration. Runs 100% local with Ollama. No API keys needed.
 
-`Python` `AI` `CLI`
+`Python` `LLM` `Ollama` `Multi-Agent`
 
-[![Stars](https://img.shields.io/github/stars/rudra496/termmind?style=for-the-badge&logo=github&color=ff6b6b&labelColor=000)](https://github.com/rudra496/termmind)
+[![Stars](https://img.shields.io/github/stars/rudra496/nexus-agent?style=for-the-badge&logo=github&color=ff6b6b&labelColor=000)](https://github.com/rudra496/nexus-agent)
+[![Docs](https://img.shields.io/badge/Docs-Read-black?style=for-the-badge&logo=readthedocs&color=58A6FF&labelColor=000)](https://github.com/rudra496/nexus-agent)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>More Projects</b></summary>
+<summary><b>📖 More Projects</b></summary>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**SightlineAI**](https://rudra496.github.io/sightlineai) | AI assistive eyewear for visually impaired — real-time environment awareness | Computer Vision |
-| [**MindWell**](https://mindwell-navy.vercel.app/) | Mental health platform — mood tracking, self-assessment, mindfulness | Next.js |
-| [**ScienceLab 3D**](https://rudra496.github.io/science) | Interactive 3D science lab with 40+ experiments | Three.js |
-| [**AI Code Trust Validator**](https://github.com/rudra496/ai-code-trust-validator) | Validate AI code for security, hallucinations & logic errors | Python |
-| [**WorldSim AI**](https://github.com/rudra496/worldsim-ai) | AI digital twin simulation platform | Python |
-| [**Dual-Axis Solar Tracker**](https://github.com/rudra496) | Servo-optimized solar panel with smart LDR sensing | Arduino |
-| [**Smart Door Security**](https://github.com/rudra496) | Biometric + RFID + PIN multi-layered access control | ESP32 |
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**MindWell**](https://mindwell-navy.vercel.app/) | Free mental health platform — mood tracking, self-assessment, mindfulness exercises | ![Stars](https://img.shields.io/github/stars/rudra496/mindwell?style=social) |
+| [**CodeVista**](https://github.com/rudra496/codevista) | AI-powered code analysis & visualization — dependency graphs, security audits | ![Stars](https://img.shields.io/github/stars/rudra496/codevista?style=social) |
+| [**AI Code Trust Validator**](https://github.com/rudra496/ai-code-trust-validator) | Security scanner for AI-generated code — detect vulnerabilities & hallucinations | ![Stars](https://img.shields.io/github/stars/rudra496/ai-code-trust-validator?style=social) |
+| [**WorldSim AI**](https://github.com/rudra496/worldsim-ai) | AI-powered world simulation engine for research, gaming & creative storytelling | ![Stars](https://img.shields.io/github/stars/rudra496/worldsim-ai?style=social) |
+| [**SightlineAI**](https://rudra496.github.io/sightlineai) | AI smart glasses for the blind — real-time object detection & navigation | ![Stars](https://img.shields.io/github/stars/rudra496/sightlineai?style=social) |
+| [**TermMind**](https://github.com/rudra496/termmind) | Terminal AI assistant — 7 providers, 40+ commands, works with local models | ![Stars](https://img.shields.io/github/stars/rudra496/termmind?style=social) |
+| [**SignLanguage Dataset Hub**](https://github.com/rudra496/SignLanguage-Dataset-Hub) | Curated sign language datasets for ML — ASL, BSL & more | ![Stars](https://img.shields.io/github/stars/rudra496/SignLanguage-Dataset-Hub?style=social) |
+| [**TrafficStudyGo**](https://github.com/rudra496/TrafficStudyGo) | High-performance traffic simulation in Go — real-time flow modeling | ![Stars](https://img.shields.io/github/stars/rudra496/TrafficStudyGo?style=social) |
+| [**Spark**](https://github.com/rudra496/spark) | OSS repository structure validator & project scaffolding toolkit | ![Stars](https://img.shields.io/github/stars/rudra496/spark?style=social) |
+| [**Science**](https://github.com/rudra496/science) | Interactive science experiments & simulations with 3D visualizations | ![Stars](https://img.shields.io/github/stars/rudra496/science?style=social) |
+| [**awesome-ai-humanizers**](https://github.com/rudra496/awesome-ai-humanizers) | Curated list of AI humanizer tools, detectors & research papers | ![Stars](https://img.shields.io/github/stars/rudra496/awesome-ai-humanizers?style=social) |
+| [**Omnicopter**](https://github.com/rudra496/omnicopter) | Energy-aware null-space control for omnidirectional UAV | ![Stars](https://img.shields.io/github/stars/rudra496/omnicopter?style=social) |
 
 </details>
 
@@ -154,6 +179,7 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 
 | Award | Organization |
 |:-----:|:-----------:|
+| UPG Sustainability Leader (**with Distinction**) — Class of 2026 | United People Global |
 | DEI Champion — Diversity, Equity & Inclusion | Rice360, Rice University |
 | Divisional Champion — ICT Division | Bangladesh Government |
 | Champion (Cohort-5) — University Innovation Hub Program | UIHP |
@@ -170,7 +196,7 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,tailwind,flask,tensorflow,pytorch,docker,git,linux,arduino,figma,threejs,go,solidworks,firebase,vercel&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,tailwind,flask,tensorflow,pytorch,docker,git,linux,arduino,figma,threejs,go,solidworks,firebase,vercel&perline=10" alt="Tech Stack — Python, TypeScript, JavaScript, React, Next.js, Node.js, TensorFlow, Docker, Arduino, Three.js, Go, SolidWorks" />
 
 </div>
 
@@ -181,11 +207,11 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra496&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra496&theme=github_dark" alt="GitHub Stats — Rudra Sarker" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra496&theme=github_dark" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra496&theme=github_dark" alt="Top Languages — Rudra Sarker" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra496&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=0d1117&ring=ff6b6b&fire=ff9f43&currLabel=ff6b6b&sideLabels=ffffff&currDateLabel=ff6b6b&sideDateLabel=ffffff" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra496&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=0d1117&ring=ff6b6b&fire=ff9f43&currLabel=ff6b6b&sideLabels=ffffff&currDateLabel=ff6b6b&sideDateLabel=ffffff" alt="GitHub Streak Stats — Rudra Sarker" />
 
 </div>
 
@@ -196,9 +222,9 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra496&bg_color=0d1117&color=ff6b6b&line=ff9f43&point=ff6b6b&area=true&hide_border=true&area_color=ff6b6b33" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra496&bg_color=0d1117&color=ff6b6b&line=ff9f43&point=ff6b6b&area=true&hide_border=true&area_color=ff6b6b33" width="100%" alt="Contribution Activity Graph — Rudra Sarker" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudra496&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudra496&theme=github_dark" width="100%" alt="Productive Time — Rudra Sarker" />
 
 </div>
 
@@ -206,7 +232,7 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudra496/rudra496/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudra496/rudra496/output/github-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/rudra496/rudra496/output/github-snake-dark.svg" width="100%" />
+<img alt="GitHub contribution snake animation — Rudra Sarker" src="https://raw.githubusercontent.com/rudra496/rudra496/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 <!-- RAINBOW DIVIDER -->
@@ -222,7 +248,8 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 <a href="https://www.youtube.com/@rudrasarker9732"><img src="https://img.shields.io/badge/YouTube-@rudrasarker9732-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=000" /></a>
 <a href="https://dev.to/rudra_sarker"><img src="https://img.shields.io/badge/DEV.to-rudra_sarker-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=00D9FF&labelColor=000" /></a>
 <a href="https://www.researchgate.net/profile/Rudra-Sarker-3"><img src="https://img.shields.io/badge/ResearchGate-Rudra_Sarker-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&color=00CCBB&labelColor=000" /></a>
-<a href="https://www.instagram.com/rudrasarker/"><img src="https://img.shields.io/badge/Instagram-@rudrasarker-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=000" /></a>
+<a href="https://orcid.org/0009-0001-4545-0932"><img src="https://img.shields.io/badge/ORCID-0009--0001--4545--0932-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&color=A6CE39&labelColor=000" /></a>
+<a href="https://www.instagram.com/rudra_sarker_369"><img src="https://img.shields.io/badge/Instagram-@rudra_sarker_369-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=000" /></a>
 <a href="https://www.facebook.com/rudrasarker130"><img src="https://img.shields.io/badge/Facebook-rudrasarker130-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2&labelColor=000" /></a>
 <a href="mailto:rudrasarker130@gmail.com"><img src="https://img.shields.io/badge/Email-rudrasarker130@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&labelColor=000" /></a>
 <a href="https://rudra496.github.io/site"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-4285F4?style=for-the-badge&logo=firefox-browser&logoColor=white&color=4285F4&labelColor=000" /></a>
@@ -236,38 +263,18 @@ Works with OpenAI, Claude, Gemini, and local models for code analysis and automa
 
 </div>
 
-<!-- STAR CAMPAIGN SECTION -->
+<!-- SUPPORT SECTION -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=divider&text=&fontSize=0" width="100%" />
-
-
-
-## 📸 Community Contribution Issues: Add Real Demo Screenshots
-
-Want an easy first contribution that boosts project trust and helps more users star/follow? Open one issue below and add real demo screenshots (UI, CLI output, hardware setup, or results).
-
-> ✅ **StealthHumanizer already has demo coverage**, so it is skipped here.
-
-### Open screenshot contribution issues (one-click)
-
-- [DevRoadmaps — Add real demo screenshots](https://github.com/rudra496/devroadmaps/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real%20demo%20screenshots%20to%20the%20README%20for%20better%20trust%20and%20discoverability.%0A%0A##%20What%20to%20capture%0A-%20Homepage%20and%20roadmap%20view%0A-%20Mobile%20responsive%20view%0A-%20PWA%20install%20prompt%20or%20offline%20mode%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Upload%20optimized%20images%20in%20repo%20assets%20folder%0A-%20%5B%20%5D%20Update%20README%20with%20image%20captions%0A-%20%5B%20%5D%20Add%20alt%20text%20for%20accessibility%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
-- [EdgeBrain — Add real demo screenshots](https://github.com/rudra496/EdgeBrain/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real-world%20demo%20screenshots%20for%20edge%20AI%20workflows.%0A%0A##%20What%20to%20capture%0A-%20Inference%20run%20on%20device%0A-%20Latency%2Fmetrics%20output%0A-%20System%20architecture%20or%20dashboard%20view%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Upload%20clear%20screenshots%20with%20captions%0A-%20%5B%20%5D%20Mask%20sensitive%20tokens%2Fkeys%0A-%20%5B%20%5D%20Update%20README%20demo%20section%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
-- [CodeVista — Add real demo screenshots](https://github.com/rudra496/codevista/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real%20screenshots%20for%20scan%20flow%20and%20report%20outputs.%0A%0A##%20What%20to%20capture%0A-%20CLI%20scan%20execution%0A-%20HTML%20report%20overview%0A-%20Security%20findings%20sample%20(redacted)%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Keep%20images%20compressed%20for%20fast%20README%20load%0A-%20%5B%20%5D%20Add%20before%2Fafter%20or%20sample%20report%20shots%0A-%20%5B%20%5D%20Update%20README%20with%20short%20workflow%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
-- [TermMind — Add real demo screenshots](https://github.com/rudra496/termmind/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real%20terminal%20demo%20screenshots%20for%20common%20commands%20and%20provider%20usage.%0A%0A##%20What%20to%20capture%0A-%20Command%20examples%20in%20terminal%0A-%20Provider%20switching%20or%20multi-model%20output%0A-%20Automation%20workflow%20sample%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Redact%20API%20keys%20and%20personal%20paths%0A-%20%5B%20%5D%20Keep%20terminal%20theme%20readable%0A-%20%5B%20%5D%20Update%20README%20Demo%20section%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
-- [AI Code Trust Validator — Add real demo screenshots](https://github.com/rudra496/ai-code-trust-validator/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real%20screenshots%20that%20show%20AI%20code%20validation%20workflow%20and%20results.%0A%0A##%20What%20to%20capture%0A-%20Input%20code%20analysis%20screen%20or%20CLI%20flow%0A-%20Validation%20report%20for%20security%2Flogic%2Fhallucination%20checks%0A-%20Summary%20dashboard%20or%20scoring%20output%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Redact%20private%20code%20or%20secrets%0A-%20%5B%20%5D%20Add%20captions%20for%20each%20screenshot%0A-%20%5B%20%5D%20Update%20README%20Demo%20section%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
-- [WorldSim AI — Add real demo screenshots](https://github.com/rudra496/worldsim-ai/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0ADocument%20real%20simulation%20runs%20with%20screenshots%20to%20increase%20project%20trust.%0A%0A##%20What%20to%20capture%0A-%20Scenario%20setup%20screen%0A-%20Simulation%20runtime%20view%0A-%20Output%20metrics%20or%20comparative%20results%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Use%20clear%20labels%20for%20sim%20parameters%0A-%20%5B%20%5D%20Add%20captions%20and%20context%0A-%20%5B%20%5D%20Update%20README%20Demo%20section%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
-- [Nexas Agent — Add real demo screenshots](https://github.com/rudra496/nexas-agent/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real%20screenshots%20for%20agent%20workflows%20and%20automation%20results.%0A%0A##%20What%20to%20capture%0A-%20Task%20configuration%20or%20prompt%20setup%0A-%20Agent%20execution%20steps%0A-%20Final%20output%20or%20report%20view%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Hide%20tokens%20or%20sensitive%20data%0A-%20%5B%20%5D%20Add%20concise%20captions%0A-%20%5B%20%5D%20Update%20README%20Demo%20section%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
-- [Spark — Add real demo screenshots](https://github.com/rudra496/spark/issues/new?title=docs%3A%20add%20real%20demo%20screenshots&body=##%20Goal%0AAdd%20real%20demo%20screenshots%20to%20show%20core%20features%20and%20usage.%0A%0A##%20What%20to%20capture%0A-%20Main%20feature%20interface%0A-%20Key%20workflow%20steps%0A-%20Final%20output%20or%20result%20state%0A%0A##%20Contribution%20checklist%0A-%20%5B%20%5D%20Keep%20images%20optimized%20for%20README%0A-%20%5B%20%5D%20Add%20captions%20for%20each%20image%0A-%20%5B%20%5D%20Update%20README%20Demo%20section%0A-%20%5B%20%5D%20Open%20PR%20linking%20this%20issue)
-
-If you contribute screenshots, tag **`good first issue`**, **`documentation`**, and **`help wanted`** on your issue/PR so new contributors can discover it fast.
 
 ## ⭐ Support My Open Source Work
 
 If any of my projects helped you, here's how you can support:
 
 1. **⭐ Star** the repos you find useful — it helps others discover them
-2. **🍴 Fork & Contribute** — all repos welcome PRs
-3. **📢 Share** with your network
-4. **👤 Follow** [@rudra496](https://github.com/rudra496) for updates
+2. **🍴 Fork & Contribute** — all repos welcome PRs (look for `good first issue` labels!)
+3. **📢 Share** with your network — posts, blogs, university groups
+4. **❤️ Sponsor** — [GitHub Sponsors](https://github.com/sponsors/rudra496) (coming soon)
+5. **👤 Follow** [@rudra496](https://github.com/rudra496) for updates
 
 <div align="center">
 
@@ -276,26 +283,14 @@ If any of my projects helped you, here's how you can support:
 | | Project | Stars | Description |
 |---|---------|-------|-------------|
 | 🔓 | [**StealthHumanizer**](https://github.com/rudra496/StealthHumanizer) | ![Stars](https://img.shields.io/github/stars/rudra496/StealthHumanizer?style=social) | Free AI text humanizer — 35 providers, 16+ languages, no login |
-| 🧠 | [**EdgeBrain**](https://github.com/rudra496/EdgeBrain) | ![Stars](https://img.shields.io/github/stars/rudra496/EdgeBrain?style=social) | Edge AI inference — sub-100ms, no cloud |
 | 🗺️ | [**DevRoadmaps**](https://github.com/rudra496/devroadmaps) | ![Stars](https://img.shields.io/github/stars/rudra496/devroadmaps?style=social) | 20 career paths, 870+ topics, 1,880+ free resources |
+| 🔬 | [**ScienceLab 3D**](https://github.com/rudra496/sciencelab3d) | ![Stars](https://img.shields.io/github/stars/rudra496/sciencelab3d?style=social) | Interactive 3D STEM lab with 40+ virtual experiments |
+| 🧠 | [**EdgeBrain**](https://github.com/rudra496/EdgeBrain) | ![Stars](https://img.shields.io/github/stars/rudra496/EdgeBrain?style=social) | Edge AI inference — sub-100ms, no cloud |
+| ⚡ | [**Nexus Agent**](https://github.com/rudra496/nexus-agent) | ![Stars](https://img.shields.io/github/stars/rudra496/nexus-agent?style=social) | Zero-config local AI agent framework |
+| 🌍 | [**WorldSim AI**](https://github.com/rudra496/worldsim-ai) | ![Stars](https://img.shields.io/github/stars/rudra496/worldsim-ai?style=social) | AI-powered digital twin simulation engine |
+| 🧘 | [**MindWell**](https://github.com/rudra496/mindwell) | ![Stars](https://img.shields.io/github/stars/rudra496/mindwell?style=social) | Free mental health support platform |
 | 🔍 | [**CodeVista**](https://github.com/rudra496/codevista) | ![Stars](https://img.shields.io/github/stars/rudra496/codevista?style=social) | AI code analysis & security scanner |
-| 👁️ | [**SightlineAI**](https://github.com/rudra496/sightlineai) | ![Stars](https://img.shields.io/github/stars/rudra496/sightlineai?style=social) | AI smart glasses for the blind |
-| 🤖 | [**awesome-ai-humanizers**](https://github.com/rudra496/awesome-ai-humanizers) | ![Stars](https://img.shields.io/github/stars/rudra496/awesome-ai-humanizers?style=social) | Curated list of AI humanizer tools & resources |
 
-</div>
-
-<!-- RECENT ACTIVITY -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=divider&text=&fontSize=0" width="100%" />
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rudra496&theme=dark&background=000000" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=rudra496&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff6b6b&icon_color=ff9f43&text_color=ffffff" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra496&bg_color=000000&color=ff6b6b&line=ff9f43&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <!-- FOOTER -->
@@ -303,6 +298,6 @@ If any of my projects helped you, here's how you can support:
 
 <div align="center">
 
-**[⭐ Star my repos](https://github.com/rudra496?tab=repositories) · [👤 Follow me](https://github.com/rudra496?tab=followers) · [🌐 Portfolio](https://rudra496.github.io/site) · [🐦 Twitter](https://twitter.com/Rudra496)**
+**[⭐ Star my repos](https://github.com/rudra496?tab=repositories) · [👤 Follow me](https://github.com/rudra496?tab=followers) · [🌐 Portfolio](https://rudra496.github.io/site) · [🐦 Twitter](https://twitter.com/Rudra496) · [💼 LinkedIn](https://linkedin.com/in/rudrasarker)**
 
 </div>
