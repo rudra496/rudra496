@@ -4,7 +4,7 @@ Keywords: AI developer, machine learning engineer, robotics engineer, IoT engine
 StealthHumanizer, EdgeBrain, DevRoadmaps, CodeVista, ScienceLab 3D, AI text humanizer, edge AI inference,
 developer roadmaps, code analysis, sign language smart glove, assistive technology, computer vision,
 TensorFlow, PyTorch, React, Next.js, TypeScript, Python, Arduino, ESP32, Raspberry Pi, SUST Bangladesh,
-Industrial Production Engineering, DEI Champion, open source contributor Bangladesh
+Industrial Production Engineering, DEI Champion, open source contributor Bangladesh, Substack AI writer
 Description: AI Developer & Robotics/IoT Engineer building open-source tools — AI text humanizer, edge AI,
 developer roadmaps, code analysis, assistive tech. 4th-year IPE student at SUST, Bangladesh.
 -->
@@ -43,7 +43,7 @@ developer roadmaps, code analysis, assistive tech. 4th-year IPE student at SUST,
 
 I'm a **4th-year Industrial & Production Engineering student** at **SUST** (Shahjalal University of Science and Technology), Sylhet, Bangladesh — building **open-source tools that solve real problems** at the intersection of **AI, embedded systems, and full-stack engineering**.
 
-From AI text humanization used by thousands worldwide to assistive robotics for the visually impaired, I create tools that are **free, accessible, and genuinely useful**. Currently serving as **Secretary of Projects & Planning at RoboSUST** and recognized as a **UPG Sustainability Leader** (with distinction).
+From AI text humanization used by thousands worldwide to assistive robotics for the visually impaired, I create tools that are **free, accessible, and genuinely useful**. Currently serving as **Secretary of Projects & Planning at RoboSUST** and recognized as a **UPG Sustainability Leader** (with distinction). I also write about AI industry trends on my [Substack](https://rudrasarker.substack.com).
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=58A6FF&width=520&center=true&lines=%F0%9F%8F%85+Secretary+of+Projects+%26+Planning+%40+RoboSUST;%F0%9F%A7%A0+AI+%7C+ML+%7C+Robotics+%7C+IoT;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8F%86+National+%26+International+Award+Winner;%F0%9F%8C%8D+Sylhet%2C+Bangladesh+%E2%86%92+Building+for+the+World" />
@@ -52,10 +52,18 @@ From AI text humanization used by thousands worldwide to assistive robotics for 
 <!-- NEON DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,20&height=3&section=divider&text=&fontSize=0" width="100%" />
 
-## Trophies
+## GitHub Achievements & Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rudra496&theme=darkhub&no-bg=false&no-frame=false&column=8&margin-w=8&margin-h=8" width="100%" alt="GitHub Profile Trophies — Rudra Sarker" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra496&theme=github_dark" alt="GitHub Stats — Rudra Sarker" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra496&theme=github_dark" alt="Top Languages — Rudra Sarker" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudra496&theme=github_dark" alt="Most Committed Languages — Rudra Sarker" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra496&theme=github_dark" alt="Profile Details — Rudra Sarker" />
+
 </div>
 
 <!-- RAINBOW DIVIDER -->
@@ -203,24 +211,11 @@ Multi-agent orchestration, GraphRAG, IDE integration. Runs 100% local with Ollam
 <!-- ELECTRIC DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20,6,0,6,20&height=30&section=divider&text=&fontSize=0" width="100%" />
 
-## GitHub Analytics
+## Activity & Streak
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra496&theme=github_dark" alt="GitHub Stats — Rudra Sarker" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra496&theme=github_dark" alt="Top Languages — Rudra Sarker" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra496&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=0d1117&ring=ff6b6b&fire=ff9f43&currLabel=ff6b6b&sideLabels=ffffff&currDateLabel=ff6b6b&sideDateLabel=ffffff" alt="GitHub Streak Stats — Rudra Sarker" />
-
-</div>
-
-<!-- AURORA DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,12&height=3&section=divider&text=&fontSize=0" width="100%" />
-
-## Contribution Activity
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra496&bg_color=0d1117&color=ff6b6b&line=ff9f43&point=ff6b6b&area=true&hide_border=true&area_color=ff6b6b33" width="100%" alt="Contribution Activity Graph — Rudra Sarker" />
 
@@ -246,9 +241,11 @@ Multi-agent orchestration, GraphRAG, IDE integration. Runs 100% local with Ollam
 <a href="https://www.linkedin.com/in/rudrasarker"><img src="https://img.shields.io/badge/LinkedIn-Rudra_Sarker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&labelColor=000" /></a>
 <a href="https://x.com/Rudra496"><img src="https://img.shields.io/badge/X-@Rudra496-000000?style=for-the-badge&logo=x&logoColor=white&color=ffffff&labelColor=000" /></a>
 <a href="https://www.youtube.com/@rudrasarker9732"><img src="https://img.shields.io/badge/YouTube-@rudrasarker9732-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=000" /></a>
+<a href="https://rudrasarker.substack.com"><img src="https://img.shields.io/badge/Substack-Rudra_Sarker-FF6719?style=for-the-badge&logo=substack&logoColor=white&color=FF6719&labelColor=000" /></a>
 <a href="https://dev.to/rudra_sarker"><img src="https://img.shields.io/badge/DEV.to-rudra_sarker-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=00D9FF&labelColor=000" /></a>
-<a href="https://www.researchgate.net/profile/Rudra-Sarker-3"><img src="https://img.shields.io/badge/ResearchGate-Rudra_Sarker-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&color=00CCBB&labelColor=000" /></a>
+<a href="https://devpost.com/rudrasarker"><img src="https://img.shields.io/badge/Devpost-rudrasarker-003E54?style=for-the-badge&logo=devpost&logoColor=white&color=4B3F26&labelColor=000" /></a>
 <a href="https://orcid.org/0009-0001-4545-0932"><img src="https://img.shields.io/badge/ORCID-0009--0001--4545--0932-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&color=A6CE39&labelColor=000" /></a>
+<a href="https://www.researchgate.net/profile/Rudra-Sarker-3"><img src="https://img.shields.io/badge/ResearchGate-Rudra_Sarker-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&color=00CCBB&labelColor=000" /></a>
 <a href="https://www.instagram.com/rudra_sarker_369"><img src="https://img.shields.io/badge/Instagram-@rudra_sarker_369-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=000" /></a>
 <a href="https://www.facebook.com/rudrasarker130"><img src="https://img.shields.io/badge/Facebook-rudrasarker130-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2&labelColor=000" /></a>
 <a href="mailto:rudrasarker130@gmail.com"><img src="https://img.shields.io/badge/Email-rudrasarker130@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&labelColor=000" /></a>
@@ -273,8 +270,9 @@ If any of my projects helped you, here's how you can support:
 1. **⭐ Star** the repos you find useful — it helps others discover them
 2. **🍴 Fork & Contribute** — all repos welcome PRs (look for `good first issue` labels!)
 3. **📢 Share** with your network — posts, blogs, university groups
-4. **❤️ Sponsor** — [GitHub Sponsors](https://github.com/sponsors/rudra496) (coming soon)
-5. **👤 Follow** [@rudra496](https://github.com/rudra496) for updates
+4. **❤️ Sponsor** — [GitHub Sponsors](https://github.com/sponsors/rudra496)
+5. **📰 Read** my [Substack](https://rudrasarker.substack.com) — AI industry analysis & tech insights
+6. **👤 Follow** [@rudra496](https://github.com/rudra496) for updates
 
 <div align="center">
 
@@ -298,6 +296,6 @@ If any of my projects helped you, here's how you can support:
 
 <div align="center">
 
-**[⭐ Star my repos](https://github.com/rudra496?tab=repositories) · [👤 Follow me](https://github.com/rudra496?tab=followers) · [🌐 Portfolio](https://rudra496.github.io/site) · [🐦 Twitter](https://twitter.com/Rudra496) · [💼 LinkedIn](https://linkedin.com/in/rudrasarker)**
+**[⭐ Star my repos](https://github.com/rudra496?tab=repositories) · [👤 Follow me](https://github.com/rudra496?tab=followers) · [🌐 Portfolio](https://rudra496.github.io/site) · [🐦 Twitter](https://twitter.com/Rudra496) · [💼 LinkedIn](https://linkedin.com/in/rudrasarker) · [📰 Substack](https://rudrasarker.substack.com)**
 
 </div>
