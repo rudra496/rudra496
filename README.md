@@ -17,7 +17,7 @@
 <!-- TYPING ANIMATION -->
 <br/><br/>
 <a href="https://rudra496.github.io/site">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=F73165&width=600&lines=AI+Developer+%7C+Robotics+%26+IoT+Engineer;3rd+Year+IPE+%40+SUST%2C+Bangladesh;Secretary+of+Projects+%40+RoboSUST;DEI+Champion+%7C+Rice+University+%26+Rice360;Building+the+future+with+open+source+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=F73165&width=600&lines=AI+Developer+%7C+Robotics+%26+IoT+Engineer;Last+Year+IPE+%40+SUST%2C+Bangladesh;Secretary+of+Projects+%40+RoboSUST;DEI+Champion+%7C+Rice+University+%26+Rice360;Building+the+future+with+open+source+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
