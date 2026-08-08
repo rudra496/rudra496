@@ -73,6 +73,22 @@ From AI text humanization used by thousands worldwide to assistive robotics for 
 
 <table>
 <tr>
+<td width="100%" colspan="2">
+
+### ⚡ [HyperReason Engine](https://github.com/rudra496/hyper-reason)
+**Autonomous Test-Time Compute Scaling & Dynamic KV-Cache Sparsification for Local LLMs**
+
+Open-source MCTS reasoning engine scaling LLM test-time compute with FlashKV Zero-Copy Paged Memory (-85% VRAM), Speculative Parallel Rollouts (4.5x speedup), INT8 quantization, and 1-line PyTorch/vLLM/Ollama wrapper.
+
+`Python` `PyTorch` `MCTS` `Test-Time-Compute` `AI-Reasoning` `vLLM`
+
+[![Stars](https://img.shields.io/github/stars/rudra496/hyper-reason?style=for-the-badge&logo=github&color=ff6b6b&labelColor=000)](https://github.com/rudra496/hyper-reason)
+[![Live Demo](https://img.shields.io/badge/Live_Portal-black?style=for-the-badge&logo=githubpages&color=00f2fe&labelColor=000)](https://rudra496.github.io/hyper-reason)
+[![CI Status](https://img.shields.io/badge/CI_Status-Passing-2ecc71?style=for-the-badge&logo=githubactions&labelColor=000)](https://github.com/rudra496/hyper-reason/actions)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [StealthHumanizer](https://stealthhumanizer.vercel.app/)
