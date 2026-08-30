@@ -27,6 +27,15 @@ developer roadmaps, code analysis, assistive tech. 4th-year IPE student at SUST,
 <a href="https://github.com/sponsors/rudra496">
 <img src="https://img.shields.io/badge/Sponsor-Support_My_Work-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=000" />
 </a>
+<a href="https://doi.org/10.1016/j.jep.2026.122316">
+<img src="https://img.shields.io/badge/Elsevier_Q1-Published_Author-00b894?style=for-the-badge&logo=sciencedirect&logoColor=white&labelColor=000" />
+</a>
+<a href="https://rudra496.github.io/site/blog/nosian-magazine-talks-to-zai-ambassador-rudra-sarker.html">
+<img src="https://img.shields.io/badge/Z.ai-Global_Ambassador-2563eb?style=for-the-badge&logo=globe&logoColor=white&labelColor=000" />
+</a>
+<a href="https://rudra496.github.io/site/#flagships">
+<img src="https://img.shields.io/badge/CERN_Zenodo-10_DOIs-0284c7?style=for-the-badge&logo=open-access&logoColor=white&labelColor=000" />
+</a>
 
 <!-- TYPING ANIMATION -->
 <br/><br/>
@@ -43,7 +52,7 @@ developer roadmaps, code analysis, assistive tech. 4th-year IPE student at SUST,
 
 I'm a **4th-year Industrial & Production Engineering student** at **SUST** (Shahjalal University of Science and Technology), Sylhet, Bangladesh — building **open-source tools that solve real problems** at the intersection of **AI, embedded systems, and full-stack engineering**.
 
-From AI text humanization used by thousands worldwide to assistive robotics for the visually impaired, I create tools that are **free, accessible, and genuinely useful**. Currently serving as **Secretary of Projects & Planning at RoboSUST** and recognized as a **UPG Sustainability Leader** (with distinction). I also write about AI industry trends on my [Substack](https://rudrasarker.substack.com).
+From AI text humanization used by thousands worldwide to assistive robotics for the visually impaired, I create tools that are **free, accessible, and genuinely useful**. Currently serving as **Secretary of Projects & Planning at RoboSUST**, appointed as an official **Z.ai Global Campus Ambassador** (profiled in *Nosian Magazine*), and published researcher in Elsevier's *Journal of Ethnopharmacology* (Q1). Recognized as a **UPG Sustainability Leader** (with distinction) and **Rice360 Global Health Semifinalist**. I also write about AI industry trends on my [Substack](https://rudrasarker.substack.com).
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=58A6FF&width=520&center=true&lines=%F0%9F%8F%85+Secretary+of+Projects+%26+Planning+%40+RoboSUST;%F0%9F%A7%A0+AI+%7C+ML+%7C+Robotics+%7C+IoT;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8F%86+National+%26+International+Award+Winner;%F0%9F%8C%8D+Sylhet%2C+Bangladesh+%E2%86%92+Building+for+the+World" />
@@ -203,6 +212,9 @@ Multi-agent orchestration, GraphRAG, IDE integration. Runs 100% local with Ollam
 
 | Award | Organization |
 |:-----:|:-----------:|
+| Published Author — Elsevier Q1 (*Journal of Ethnopharmacology*) | Elsevier (PMID: 42636558) |
+| Official Global Campus Ambassador & Nosian Feature | Z.ai (GLM) / Nosian Magazine |
+| Global Semifinalist — Global Health Tech Design Competition | Rice360 Institute for Global Health |
 | UPG Sustainability Leader (**with Distinction**) — Class of 2026 | United People Global |
 | DEI Champion — Diversity, Equity & Inclusion | Rice360, Rice University |
 | Divisional Champion — ICT Division | Bangladesh Government |
@@ -261,6 +273,8 @@ Multi-agent orchestration, GraphRAG, IDE integration. Runs 100% local with Ollam
 <a href="https://dev.to/rudra_sarker"><img src="https://img.shields.io/badge/DEV.to-rudra_sarker-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=00D9FF&labelColor=000" /></a>
 <a href="https://devpost.com/rudrasarker"><img src="https://img.shields.io/badge/Devpost-rudrasarker-003E54?style=for-the-badge&logo=devpost&logoColor=white&color=4B3F26&labelColor=000" /></a>
 <a href="https://orcid.org/0009-0001-4545-0932"><img src="https://img.shields.io/badge/ORCID-0009--0001--4545--0932-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&color=A6CE39&labelColor=000" /></a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/42636558/"><img src="https://img.shields.io/badge/PubMed-42636558-3253DC?style=for-the-badge&logo=pubmed&logoColor=white&color=3253DC&labelColor=000" /></a>
+<a href="https://rudra496.github.io/site/blog/nosian-magazine-talks-to-zai-ambassador-rudra-sarker.html"><img src="https://img.shields.io/badge/Nosian_Press-Feature-7c3aed?style=for-the-badge&logo=read-the-docs&logoColor=white&color=7c3aed&labelColor=000" /></a>
 <a href="https://www.researchgate.net/profile/Rudra-Sarker-3"><img src="https://img.shields.io/badge/ResearchGate-Rudra_Sarker-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&color=00CCBB&labelColor=000" /></a>
 <a href="https://www.instagram.com/rudra_sarker_369"><img src="https://img.shields.io/badge/Instagram-@rudra_sarker_369-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=000" /></a>
 <a href="https://www.facebook.com/rudrasarker130"><img src="https://img.shields.io/badge/Facebook-rudrasarker130-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2&labelColor=000" /></a>
